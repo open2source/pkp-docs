@@ -1,20 +1,7 @@
-Rozdział 12:	Recenzowanie
+# Rozdział 12:	Recenzowanie
 Niniejszy rozdział jest poświęcony procedurze recenzowania tekstów. Opisana tu metoda jest tożsama w wypadku zaproszeń  wysyłanych poprzez link w mailu jak i poprzez logowanie się do panelu. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](./screens/panel-recenzenta.png)
 
 Wybierając w panelu tytuł artykułu lub klikając w link załączony do maila przechodzimy w obu przypadkach do szczegółów 
 
